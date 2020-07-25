@@ -1,0 +1,15 @@
+C:\Users\Aspire3\Desktop\projects\poem_generator_turkish\poem_puller\obj\Debug\netcoreapp3.1\poem_puller.csprojAssemblyReference.cache
+C:\Users\Aspire3\Desktop\projects\poem_generator_turkish\poem_puller\obj\Debug\netcoreapp3.1\poem_puller.AssemblyInfoInputs.cache
+C:\Users\Aspire3\Desktop\projects\poem_generator_turkish\poem_puller\obj\Debug\netcoreapp3.1\poem_puller.AssemblyInfo.cs
+C:\Users\Aspire3\Desktop\projects\poem_generator_turkish\poem_puller\obj\Debug\netcoreapp3.1\poem_puller.csproj.CoreCompileInputs.cache
+C:\Users\Aspire3\Desktop\projects\poem_generator_turkish\poem_puller\bin\Debug\netcoreapp3.1\poem_puller.exe
+C:\Users\Aspire3\Desktop\projects\poem_generator_turkish\poem_puller\bin\Debug\netcoreapp3.1\poem_puller.deps.json
+C:\Users\Aspire3\Desktop\projects\poem_generator_turkish\poem_puller\bin\Debug\netcoreapp3.1\poem_puller.runtimeconfig.json
+C:\Users\Aspire3\Desktop\projects\poem_generator_turkish\poem_puller\bin\Debug\netcoreapp3.1\poem_puller.runtimeconfig.dev.json
+C:\Users\Aspire3\Desktop\projects\poem_generator_turkish\poem_puller\bin\Debug\netcoreapp3.1\poem_puller.dll
+C:\Users\Aspire3\Desktop\projects\poem_generator_turkish\poem_puller\bin\Debug\netcoreapp3.1\poem_puller.pdb
+C:\Users\Aspire3\Desktop\projects\poem_generator_turkish\poem_puller\obj\Debug\netcoreapp3.1\poem_puller.dll
+C:\Users\Aspire3\Desktop\projects\poem_generator_turkish\poem_puller\obj\Debug\netcoreapp3.1\poem_puller.pdb
+C:\Users\Aspire3\Desktop\projects\poem_generator_turkish\poem_puller\obj\Debug\netcoreapp3.1\poem_puller.genruntimeconfig.cache
+C:\Users\Aspire3\Desktop\projects\poem_generator_turkish\poem_puller\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Aspire3\Desktop\projects\poem_generator_turkish\poem_puller\obj\Debug\netcoreapp3.1\poem_puller.csproj.CopyComplete

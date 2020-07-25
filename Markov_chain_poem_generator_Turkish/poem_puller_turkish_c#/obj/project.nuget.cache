@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zbv8D5K8aoT0mTI0x6dXaz7CnIPLs/4WftmD3lK73b4TsbuhRlPGIGBs9ay6Gb7rkjD2LjZGJlLSu1nAHEDSLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aspire3\\Desktop\\projects\\poem_generator_turkish\\poem_puller\\poem_puller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aspire3\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
+  ],
+  "logs": []
+}
